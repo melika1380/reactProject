@@ -1,0 +1,19 @@
+.Footer {
+    border-top: 1px solid rgb(221, 158, 64);
+    justify-content: space-between;
+    padding: 10px;
+    color:palevioletred;
+    text-align: center;
+    background-color:rgba(252, 198, 117, 0.63);
+}
+
+
+.Footer button {
+    font-size: 14px;
+    text-transform: uppercase;
+    margin: 2px;
+}
+.Footer button.blue {
+    background-color: rgb(2, 19, 116);
+    
+}

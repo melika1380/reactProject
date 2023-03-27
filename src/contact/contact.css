@@ -1,0 +1,20 @@
+div input {
+    padding:0.5rem 1rem;
+    margin: 3rem 9rem;
+    border-radius: 5px;
+    background:  rgba(235, 189, 120, 0.63);
+    color: #eee;
+    border: 2px dotted rgba(204, 79, 162, 0.63);
+}
+h1{
+    padding-top: 3rem;
+}
+div textarea{
+    border-radius: 5px;
+    padding:2rem 1.5rem;
+    margin: 2rem;
+    background:  rgba(235, 189, 120, 0.63);
+    color: #eee;
+    border: 2px dotted rgba(204, 79, 162, 0.63);
+}
+

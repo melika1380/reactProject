@@ -1,0 +1,12 @@
+.Header {
+    display: flex;
+    height: 36rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.Header span {
+    font-family: inherit;
+    text-transform: capitalize;
+    color: palevioletred;
+}

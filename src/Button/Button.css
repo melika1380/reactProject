@@ -1,0 +1,18 @@
+.Button {
+    border: 1px solid #eee;
+    padding: 10px;
+    background:palevioletred;
+    color: #eee;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .Button:hover{
+    background-color: #eee;
+    color: palevioletred;
+  }
+
+.Header span {
+    font-family: inherit;
+    text-transform: capitalize;
+    color: palevioletred;
+}
